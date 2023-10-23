@@ -7,7 +7,6 @@ public class Factorial {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         int fact=num;
-
         while(num>=2){
             fact = fact * (num-1);
             num = num-1;
