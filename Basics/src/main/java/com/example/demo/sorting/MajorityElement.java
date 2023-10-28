@@ -1,4 +1,4 @@
-package com.example.demo.linearsearch;
+package com.example.demo.sorting;
 //https://leetcode.com/problems/majority-element/description/
 public class MajorityElement {
     public static void main(String[] args) {

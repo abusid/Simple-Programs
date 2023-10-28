@@ -1,6 +1,7 @@
-package com.example.demo.linearsearch;
+package com.example.demo.sorting;
 
 import java.util.HashSet;
+
 //https://leetcode.com/problems/contains-duplicate/
 public class Duplicate {
 

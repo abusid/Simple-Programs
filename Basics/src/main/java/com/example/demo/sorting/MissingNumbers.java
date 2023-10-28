@@ -1,4 +1,4 @@
-package com.example.demo.linearsearch;
+package com.example.demo.sorting;
 
 import java.util.HashSet;
 import java.util.Set;
