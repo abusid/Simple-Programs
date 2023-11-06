@@ -4,7 +4,7 @@ public class CeilingofNumber {
 
     public static void main(String[] args) {
         int[] arr = {10,22,24,25,33,40};
-        System.out.println(findCeiling(arr, 50));
+        System.out.println(findCeiling(arr, 23));
 
     }
 
