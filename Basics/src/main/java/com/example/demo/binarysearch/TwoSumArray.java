@@ -26,6 +26,7 @@ public class TwoSumArray {
     }
 
     //Binary approach
+//    https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/2128501/two-pointers-visual-explanation-java/
     public static int[] twoSumBinary(int[] nums, int target) {
         int l = 0;
         int r = nums.length - 1;
